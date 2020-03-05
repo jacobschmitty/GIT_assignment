@@ -1,4 +1,4 @@
 This is the initial contents
 of the second file that comprises
 our most excellent project.
-UserB adds some things!
+UserA adds some things and UserB adds some other stuff!
